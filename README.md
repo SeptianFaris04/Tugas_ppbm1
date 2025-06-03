@@ -7,7 +7,7 @@
 - Nama: Mochammad Zaydan Al Rasyid, NIM: 452210118
 
 ## Deskripsi Aplikasi:
-Aplikasi ini berisi 3 halaman, yaitu:
+Aplikasi ini berisi 3 halaman, yaitu :
 1. Halaman Utama.
 2. Menampilkan data dari API.
 3. Profile anggota kelompok.
